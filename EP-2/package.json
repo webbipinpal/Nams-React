@@ -1,0 +1,23 @@
+{
+  "name": "ep-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/webbipinpal/Nams-React"
+  },
+  "keywords": [],
+  "author": "Bipin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webbipinpal/Nams-React/issues"
+  },
+  "homepage":"https://github.com/webbipinpal/Nams-React#readme",
+  "dependencies": {
+    "parcel": "^2.10.3"
+  }
+}
